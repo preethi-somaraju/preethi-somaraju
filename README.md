@@ -16,9 +16,11 @@ A results-driven **Data Analyst & Data Scientist** with 12 years of professional
 
 ### 📂 Highlighted Projects
 
+<!-- PROJECTS_START -->
 - **[Telemetry ETL Pipeline](https://github.com/preethi-somaraju/preethi-somaraju.github.io/tree/main/azure-etl-pipeline)**: Automated Python requests, pandas transformations, and database loading into Azure SQL.
 - **[Customer Churn Classifier](https://github.com/preethi-somaraju/preethi-somaraju.github.io/tree/main/customer-churn-ml)**: RandomForest predictive models analyzing customer churn risk metrics.
 - **[Sales Analytics Dashboard](https://github.com/preethi-somaraju/preethi-somaraju.github.io/tree/main/sales-dashboard-sql)**: Monthly growth trends, product performance, and customer tier segments in SQL.
+<!-- PROJECTS_END -->
 
 ---
 
