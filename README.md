@@ -17,9 +17,10 @@ A results-driven **Data Analyst & Data Scientist** with 12 years of professional
 ### 📂 Highlighted Projects
 
 <!-- PROJECTS_START -->
-- **[Telemetry ETL Pipeline](https://github.com/preethi-somaraju/preethi-somaraju.github.io/tree/main/azure-etl-pipeline)**: Automated Python requests, pandas transformations, and database loading into Azure SQL.
-- **[Customer Churn Classifier](https://github.com/preethi-somaraju/preethi-somaraju.github.io/tree/main/customer-churn-ml)**: RandomForest predictive models analyzing customer churn risk metrics.
-- **[Sales Analytics Dashboard](https://github.com/preethi-somaraju/preethi-somaraju.github.io/tree/main/sales-dashboard-sql)**: Monthly growth trends, product performance, and customer tier segments in SQL.
+- **[Cloud Telemetry ETL Data Pipeline](https://github.com/preethi-somaraju/preethi-somaraju.github.io/tree/main/azure-etl-pipeline)**: This project deploys a telemetry collection pipeline that consumes sensor events, transforms values,...
+- **[Customer Churn Prediction Machine Learning Model](https://github.com/preethi-somaraju/preethi-somaraju.github.io/tree/main/customer-churn-ml)**: This project builds a predictive classifier model using a Random Forest Classifier in Scikit-Learn t...
+- **[Retail Sales Demand Forecasting](https://github.com/preethi-somaraju/preethi-somaraju.github.io/tree/main/retail-sales-forecasting)**: This repository houses a regression-based time-series demand forecasting model. It is designed to in...
+- **[Sales Data Reporting Pipeline & SQL Analytics](https://github.com/preethi-somaraju/preethi-somaraju.github.io/tree/main/sales-dashboard-sql)**: This repository houses an automated data collection pipeline that aggregates transaction records and...
 <!-- PROJECTS_END -->
 
 ---
