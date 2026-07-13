@@ -27,4 +27,3 @@ A results-driven **Data Analyst & Data Scientist** with 12 years of professional
 - **LinkedIn**: [linkedin.com/in/preethisomaraju](https://www.linkedin.com/in/preethisomaraju)
 - **Portfolio Website**: [preethi-somaraju.github.io](https://preethi-somaraju.github.io)
 - **Email**: somaraju.preethi164@gmail.com
-- **Phone**: +1-469-618-9055
