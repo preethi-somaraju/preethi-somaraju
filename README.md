@@ -1,13 +1,15 @@
 # Hi there, I'm Preethi Somaraju! 👋
 
-A results-driven **Data Analyst & Data Scientist** with 12 years of professional experience in data modeling, statistical analysis, ETL automation, and interactive business reporting.
+A data engineer with 12 years of experience, now focused on **AWS cloud architecture**. I build ingestion pipelines, data lakes and the infrastructure around them. Currently preparing for the **AWS Solutions Architect - Associate** certification.
 
 ---
 
 ### 🛠️ Technical Toolkit
 
+- **AWS**: S3, Glue, Athena, IAM, VPC, Lambda (building toward SAA-C03)
+- **Other Cloud**: Azure Data Factory, Blob Storage, Azure SQL, Google Cloud Platform
 - **Languages**: Python, SQL (BigQuery, PostgreSQL, SQLite), R, Bash
-- **Data Engineering**: Azure Data Factory, ETL Pipelines, Google Cloud Platform
+- **Data Engineering**: ETL Pipelines, Data Modeling, Infrastructure as Code
 - **Machine Learning**: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
 - **Data Visualization**: Tableau, Power BI, RStudio, Seaborn
 - **Methodologies**: Predictive Modeling, A/B Testing, Time Series Forecasting (ARIMA, LSTM), Entity Resolution
